@@ -10,6 +10,9 @@ Here are some resources to help you build a React-Redux(-X) application
 ### Tutorials
 * [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://abbeal.udemy.com/react-the-complete-guide-incl-redux/)  - Maximilian Schwarzmüller
 
+### Best practice
+* [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
 ### Articles
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) - Cory House
 * [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b) - Justice Mba
