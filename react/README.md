@@ -12,6 +12,7 @@ Here are some resources to help you build a React-Redux(-X) application
 
 ### Best practice
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+* [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
 
 ### Articles
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) - Cory House
