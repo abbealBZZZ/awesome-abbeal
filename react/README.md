@@ -43,3 +43,4 @@ Here are some resources to help you build a React-Redux(-X) application
 
 ### Articles
 * [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22) - Stephen Scott
+* [Test-Driven React: The Mostly Definitive Guide to Testing React](https://www.valentinog.com/blog/test-driven-react/)
