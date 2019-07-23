@@ -1,0 +1,22 @@
+# Produit
+
+## Product management
+
+- [La valeur métier des Users Stories, le Hawkeye des Avengers](https://blog.eleven-labs.com/fr/la-valeur-metier-des-users-stories-le-hawkeye-des-avengers/) - Eleven Labs :page_facing_up:
+- [User Story](https://blog.thiga.co/glossaire/definition-user-story/) - Thiga :page_facing_up:
+- [Become a Product Manager | Learn the Skills & Get the Job](https://abbeal.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) - Udemy [Exclusif abbeal] :tv:
+
+## MVP
+
+- [MVP ou MVP ?](https://blog.octo.com/mvp_ou_mvp/) - Octo :page_facing_up:
+- [MVP: Quickly Validate your Start-Up](https://www.youtube.com/watch?v=jHyU54GhfGs) :tv:
+- [15+ examples of successful MVPS](https://softwarebrothers.co/blog/15-examples-of-successful-mvps/) :page_facing_up:
+- [The history of Unsplash](https://unsplash.com/history) :page_facing_up:
+
+### Landing page
+
+- [Instapage landing page builder](https://instapage.com/products/landing-page-builder) :wrench:
+- [Unbounce landing page builder](https://unbounce.com/product/landing-pages/) :wrench:
+- [Inspiration 1](https://app.crayon.co/f/) - Crayon
+- [Inspiration 2](https://www.lapa.ninja/) - lapa
+- [Inspiration 3](https://www.pages.xyz/type/landing) - pages
