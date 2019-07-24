@@ -15,8 +15,5 @@
 
 ### Landing page
 
-- [Instapage landing page builder](https://instapage.com/products/landing-page-builder) :wrench:
-- [Unbounce landing page builder](https://unbounce.com/product/landing-pages/) :wrench:
-- [Inspiration 1](https://app.crayon.co/f/) - Crayon
-- [Inspiration 2](https://www.lapa.ninja/) - lapa
-- [Inspiration 3](https://www.pages.xyz/type/landing) - pages
+- Builders :  [Instapage](https://instapage.com/products/landing-page-builder); [Unbounce](https://unbounce.com/product/landing-pages/); [Unless](https://unless.com/) (contenu adaptatif en fonction de l'audience) :wrench:
+- Inspirations : [Crayon](https://app.crayon.co/f/); [lapa](https://www.lapa.ninja/); [pages](https://www.pages.xyz/type/landing)
