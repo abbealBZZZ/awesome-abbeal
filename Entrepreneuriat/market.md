@@ -10,6 +10,8 @@
 - [Pirate funnel](https://docs.google.com/presentation/d/1CSE79VrBqXBGBGJbXRwC1u9N5K05xcZBFO0yXz5Uc4A/copy) - Growth Tribe
 - [Growth Hacking: Strategies & Tactics Learned Studying 77 Hyper-Growth Companies](https://www.robbierichards.com/growth/growth-hacking-strategies)
 - [Traffic, conversion and retention techniques playbook](https://ladder.io/playbook) - ladder.io
+- [People Don’t Buy Products, They Buy Better Versions of Themselves](https://buffer.com/resources/people-dont-buy-products-they-buy-better-versions-of-themselves) - Buffer
+- [People Don’t Buy Products, They Buy Better Versions of Themselves](https://medium.com/s/buy-yourself/people-dont-buy-products-they-buy-better-versions-of-themselves-d481390bfcee) - Zander Nethercutt
 - [The BAMF bible: Top 25+ Growth Hacks from 2017](https://drive.google.com/file/d/0B9431QfNW22bczdYYTlJYS1PVTA/view)
 - [Analyse de headline](https://headlines.sharethrough.com/) - Sharethrough
 - [Words that (almost always) convert](https://blog.hubspot.com/hs-fs/hub/53/file-1385944835-png) - Überflip
