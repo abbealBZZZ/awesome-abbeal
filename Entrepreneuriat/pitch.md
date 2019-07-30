@@ -3,6 +3,7 @@
 - [Elevator Pitch](https://blog.thiga.co/glossaire/definition-elevator-pitch/) - Thiga :page_facing_up:
 - [Sell your story: Pitching in 2018](https://www.youtube.com/watch?v=KhGj87-T2l4) - WebSummit 2018 :tv:
 - [How to fix your shitty pitch](https://www.youtube.com/watch?v=mrEC8pEsk44) - WebSummit 2018 :tv:
+- [Comment réussir son pitch ?](https://www.maddyness.com/2019/07/29/reussir-pitch-maddybasics/) - Maddyness :page_facing_up:
 - [Oubliez ce que vous avez appris sur le pitch parfait](https://www.maddyness.com/2019/02/07/pitch-parfait/) - Maddyness :page_facing_up:
 - [Advice on pitching](http://www.aaronkharris.com/advice-on-pitching) - Aaron Kharris (YCombinator)
 - [Comment rater son pitch en 10 leçons](https://www.maddyness.com/2018/09/13/rater-son-pitch-10-lecons/) - Maddyness :page_facing_up:
