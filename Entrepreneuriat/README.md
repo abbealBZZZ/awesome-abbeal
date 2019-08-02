@@ -7,3 +7,5 @@ L'entrepreneuriat dans l'environnement startup nécessite une connaissance de no
 - **[Pitch](pitch.md) :** Tout pour maitriser l'exercice incontournable du pitch :mega: - _Conseils, retours d'expérience, exemples ..._
 - **[Financement/Investissement](funding.md) :** Parce que même la plus belle des idées a besoin de fonds pour survivre :money_with_wings: - _Love money, crowdfunding, business angels et autres levées de fonds_
 - **[Leadership](leadership.md)** : une idée c'est bien, une vision c'est mieux ! :rocket: - _Vision, management, mentorat ..._
+
+Une playlist qui couvre tout le parcours d'un entrepreneur en France : [Comment devenir entrepreneur ? J'y vais mais j'ai peur](https://www.youtube.com/playlist?list=PLa3V1kC_yLzW_hf1Mc-ZgPMBLRauussBu) - Le Slip Français :tv:
