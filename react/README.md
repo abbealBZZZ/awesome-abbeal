@@ -33,6 +33,7 @@ Here are some resources to help you build a React-Redux(-X) application
 * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Lin Clarke
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) - Dan Abramov
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) - Eric Elliott
+* [How to write 90% cleaner code with Hooks](https://dev.to/aman_singh/how-to-write-90-cleaner-code-with-hooks-1mmj) - dev.to
 
 ## Testing
 
