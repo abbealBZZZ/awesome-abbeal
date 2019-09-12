@@ -18,6 +18,12 @@ Here are some resources to help you build a React-Redux(-X) application
 * [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) - Cory House
 * [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b) - Justice Mba
 * [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e) - franleplant
+* [How to write 90% cleaner code with Hooks](https://dev.to/aman_singh/how-to-write-90-cleaner-code-with-hooks-1mmj) - dev.to
+
+### Avancé
+
+* [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
+* [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) - Dan Abramov
 
 ## Redux
 
@@ -33,7 +39,6 @@ Here are some resources to help you build a React-Redux(-X) application
 * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Lin Clarke
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) - Dan Abramov
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) - Eric Elliott
-* [How to write 90% cleaner code with Hooks](https://dev.to/aman_singh/how-to-write-90-cleaner-code-with-hooks-1mmj) - dev.to
 
 ## Testing
 
