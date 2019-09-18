@@ -25,6 +25,7 @@ Here are some resources to help you build a React-Redux(-X) application
 
 * [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
 * [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) - Dan Abramov
+* [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - Dan Abramov
 
 ## Redux
 
