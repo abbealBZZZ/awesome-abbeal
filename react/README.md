@@ -9,6 +9,7 @@ Here are some resources to help you build a React-Redux(-X) application
 
 ### Tutorials
 * [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://abbeal.udemy.com/react-the-complete-guide-incl-redux/)  - Maximilian Schwarzmüller
+* [React 16 - Learn React Hooks (6 exercices course)](https://github.com/kentcdodds/learn-react-hooks)  - Kent C. Dodds
 
 ### Best practice
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
