@@ -13,6 +13,7 @@
 - [15+ examples of successful MVPS](https://softwarebrothers.co/blog/15-examples-of-successful-mvps/) :page_facing_up:
 - [The history of Unsplash](https://unsplash.com/history) :page_facing_up:
 - [A Minimum Viable Product Is Not a Product, It’s a Process](https://blog.ycombinator.com/minimum-viable-product-process/) - Y Combinator / Yevgeniy (Jim) Brikman :page_facing_up:
+- [How To Build Product As A Small Startup](https://blog.ycombinator.com/how-to-build-product-as-a-small-startup/) - Y Combinator :tv:
 
 ### Landing page
 
