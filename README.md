@@ -1,6 +1,11 @@
 # Ressources
 
+## Tech
+
 * [React](react/README.md)
-* [Entrepreneuriat](Entrepreneuriat/README.md)
-* [Architecture](Architecture)
 * [React Native](react-native/README.md)
+* [Architecture](Architecture)
+
+## Entrepreneuriat
+
+* [Startup](Startup/README.md)
