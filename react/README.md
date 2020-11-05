@@ -8,22 +8,13 @@ Here are some resources to help you build a React-Redux(-X) application
 * [React](https://reactjs.org/docs/hello-world.html)
 
 ### Tutorials
-* [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://udemy.com/react-the-complete-guide-incl-redux/)  - Maximilian Schwarzmüller
+* [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://abbeal.udemy.com/react-the-complete-guide-incl-redux/)  - Maximilian Schwarzmüller
 * [React 16 - Learn React Hooks (6 exercices course)](https://github.com/kentcdodds/learn-react-hooks)  - Kent C. Dodds
 
 ### Best practice
 * [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-* [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
-
-### Articles
-* [React Binding Patterns: 5 Approaches for Handling `this`](https://medium.freecodecamp.org/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56) - Cory House
-* [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b) - Justice Mba
-* [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e) - franleplant
-* [How to write 90% cleaner code with Hooks](https://dev.to/aman_singh/how-to-write-90-cleaner-code-with-hooks-1mmj) - dev.to
 
 ### Avancé
-
-* [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) - Dan Abramov
 * [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/) - Dan Abramov
 * [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - Dan Abramov
 
@@ -45,10 +36,8 @@ Here are some resources to help you build a React-Redux(-X) application
 ## Testing
 
 ### Official documentation
+* [React](https://fr.reactjs.org/docs/testing.html)
 * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
+* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 * [Enzyme](http://airbnb.io/enzyme/)
 * [Redux recipes - Writing tests](https://github.com/reduxjs/redux/blob/master/docs/recipes/WritingTests.md)
-
-### Articles
-* [The Right Way to Test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22) - Stephen Scott
-* [Test-Driven React: The Mostly Definitive Guide to Testing React](https://www.valentinog.com/blog/test-driven-react/)

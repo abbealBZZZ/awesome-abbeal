@@ -5,7 +5,6 @@
 ### SOLID
 
 - [SOLID PRINCIPLES: To start with Object-oriented programming](https://dev.to/ham8821/solid-principles-to-start-with-object-oriented-programming-1e49) - dev.to :page_facing_up:
-- [5 Principles that will make you a SOLID JavaScript Developer](https://thefullstack.xyz/solid-javascript/) - thefullstack.xyz :page_facing_up:
 - [eBooks](/Architecture/eBooks/SOLID) :books:
 
 ### Clean Code
