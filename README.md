@@ -11,9 +11,9 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 
 ---
 
-## Javascript
+## [Javascript](javascript/README.md)
 
-Au programme de nos meilleures [ressources Javascript](javascript/README.md) :
+Au programme de nos meilleures ressources Javascript :
 * [Langage](javascript/README.md#langage)
 * [Node.js](javascript/README.md#nodejs)
 * [React/Redux](javascript/react.md)
@@ -21,7 +21,15 @@ Au programme de nos meilleures [ressources Javascript](javascript/README.md) :
 
 ---
 
-## Entrepreneuriat
+## [DevOps](devops/README.md)
+
+Vous trouverez ici des ressources sur ces différents sujets :
+* [CI/CD](devops/README.md#cicd)
+* [Kubernetes](devops/README.md#kubernetes)
+
+---
+
+## [Entrepreneuriat](entrepreneuriat/README.md)
 
 L'entrepreneuriat dans l'environnement startup nécessite une connaissance de nombreux domaines, bien différents. Voici donc une liste de ressources afin de mieux s'y retrouver :
 - **[MVP](entrepreneuriat/mvp.md) :** Avoir une idée c'est bien, pouvoir tester rapidement qu'elle est bonne, c'est mieux ! - _MVP ?, market-fit, landing page …_
