@@ -13,7 +13,7 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 
 ## Culture dev
 
-* [Architecture](architecture/README.md)
+* [Architecture](Architecture/README.md)
 
 ---
 
