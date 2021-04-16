@@ -13,18 +13,18 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 
 ## Le language
 
-La documentation officielle.
+La documentation officielle :
 * [PHP](https://www.php.net/manual/fr/index.php)
 
-Particuliérement intéressant pour comprendre les différentes nouveautés dans les derniéres version de PHP 
-(cours écrit pour la 7.3.7), ce cours est néanmoins orienté pour les débutants. J'ai cependant apprecié la partie sur 
-les expressions réguliéres et sur les différent opérateurs.
+Celle-ci vous permet de comprendre les nouveautés dans les dernières versions de PHP 
+(7.3.7), ce cours est plutôt orienté pour les débutants. J'ai cependant apprécié la partie sur 
+les expressions régulières et sur les différents opérateurs :
 * [PHP ET MYSQL MASTERCLASS](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
 ---
 
 ## Exercices
 
-CondinGame propose des challenge (pour débutant) sur PHP :
+CondinGame propose des challenges (pour débutant) sur PHP :
 * [CODINGAME PHP](https://www.codingame.com/playgrounds/32339/exercices-de-php-pour-debutant)
 
 
