@@ -24,7 +24,7 @@ les expressions régulières et sur les différents opérateurs :
 
 ## Exercices
 
-CondinGame propose des challenges (pour débutant) sur PHP :
+CodinGame propose des challenges (pour débutant) sur PHP :
 * [CODINGAME PHP](https://www.codingame.com/playgrounds/32339/exercices-de-php-pour-debutant)
 
 
