@@ -34,7 +34,7 @@ Here are some resources to help you build a React-Redux(-X) application
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) - Eric Elliott
 
 ## Testing
-
+* [React testing Jest & Puppeteer] (https://blog.logrocket.com/react-end-to-end-testing-jest-puppeteer/)
 ### Official documentation
 * [React](https://fr.reactjs.org/docs/testing.html)
 * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
