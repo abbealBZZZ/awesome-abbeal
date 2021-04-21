@@ -1,6 +1,6 @@
 # Ressources
 
-Les ressources que je juge intéressante pour apprendre / monter en compétence sur le CMS Drupal.
+Les ressources que je juge intéressantes pour apprendre / monter en compétence sur le CMS Drupal.
 Vous pouvez ajouter les votres avec une PR.
 Cette page devra être mise à jour réguliérement en fonction des versions de l'outil !
 
