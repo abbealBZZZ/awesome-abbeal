@@ -11,7 +11,7 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 
 ---
 
-## Le language
+## Le langage
 
 La documentation officielle :
 * [PHP](https://www.php.net/manual/fr/index.php)
@@ -26,4 +26,3 @@ les expressions régulières et sur les différents opérateurs :
 
 CodinGame propose des challenges (pour débutant) sur PHP :
 * [CODINGAME PHP](https://www.codingame.com/playgrounds/32339/exercices-de-php-pour-debutant)
-
