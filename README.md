@@ -8,6 +8,8 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 * [Javascript](#javascript)
 * [DevOps](#devops)
 * [Entrepreneuriat](#entrepreneuriat)
+* [PHP](php/README.md)
+* [Versioning](versioning/README.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Ressources
 
-Les ressources que je juge intéressante pour apprendre / monter en compétence sur le framework symfony.
+Les ressources que l'on juge intéressante pour apprendre / monter en compétence sur le framework symfony.
 Vous pouvez ajouter les votres avec une PR.
 Cette page devra être mise à jour réguliérement en fonction des versions de l'outil !
 
@@ -11,7 +11,7 @@ La documentation officielle.
 
 Documentation écrite par Fabien Potencier (créateur de Symfony), elle décrit pas à pas la construction d'un site web 
 avec les nouveautés intégrés par la version 5 de Symfony 5. Pour se former et prendre en main ce framework, c'est 
-selon moi la meilleure formation actuellement. 
+selon nous la meilleure formation actuellement. 
 * [En route pour Symfony 5](https://symfony.com/doc/current/the-fast-track/fr/index.html)
 ---
 

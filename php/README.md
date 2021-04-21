@@ -16,8 +16,8 @@ Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 La documentation officielle :
 * [PHP](https://www.php.net/manual/fr/index.php)
 
-Celle-ci vous permet de comprendre les nouveautés dans les dernières versions de PHP 
-(7.3.7), ce cours est plutôt orienté pour les débutants. J'ai cependant apprécié la partie sur 
+La formations ci dessous permet de comprendre les nouveautés dans les dernières versions de PHP 
+(7.3.7), ce cours est plutôt orienté pour les débutants. On a cependant apprécié la partie sur 
 les expressions régulières et sur les différents opérateurs :
 * [PHP ET MYSQL MASTERCLASS](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
 ---
