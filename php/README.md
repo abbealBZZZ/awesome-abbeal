@@ -4,7 +4,7 @@ Voici un lot de ressources sélectionnées par l'équipe abbeal.
 Si vous voulez contribuer, n'hésitez pas à créer une pull request !
 
 ## Table des matières
-* [Le language](#le-language)
+* [Le langage](#le-language)
 * [Exercices](#Exercices)
 * [Symfony](symfony.md)
 * [Drupal](drupal.md)
@@ -26,5 +26,4 @@ les expressions régulières et sur les différents opérateurs :
 
 CodinGame propose des challenges (pour débutant) sur PHP :
 * [CODINGAME PHP](https://www.codingame.com/playgrounds/32339/exercices-de-php-pour-debutant)
-
 
