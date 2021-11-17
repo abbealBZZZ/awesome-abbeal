@@ -29,12 +29,13 @@ Here are some resources to help you build a React-Redux(-X) application
 
 ### Articles
 * [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) - Dan Abramov
-* [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Lin Clarke
+* [A cartoon intro to Redux](http://blog.agileactors.com/blog/2016/8/17/a-cartoon-intro-to-redux) - Lin Clarke
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) - Dan Abramov
 * [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) - Eric Elliott
 
 ## Testing
-* [React testing Jest & Puppeteer] (https://blog.logrocket.com/react-end-to-end-testing-jest-puppeteer/)
+* [React testing Jest & Puppeteer](https://blog.logrocket.com/react-end-to-end-testing-jest-puppeteer/)
+
 ### Official documentation
 * [React](https://fr.reactjs.org/docs/testing.html)
 * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
