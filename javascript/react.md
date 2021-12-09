@@ -41,4 +41,4 @@ Here are some resources to help you build a React-Redux(-X) application
 * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
 * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 * [Enzyme](http://airbnb.io/enzyme/)
-* [Redux recipes - Writing tests](https://github.com/reduxjs/redux/blob/master/docs/recipes/WritingTests.md)
+* [Redux recipes - Writing tests](https://redux.js.org/usage/writing-tests)
