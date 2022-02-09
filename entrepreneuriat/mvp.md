@@ -16,4 +16,4 @@
 ## Landing page
 
 - Builders : [Webflow](https://webflow.com/); [Instapage](https://instapage.com/products/landing-page-builder); [Unbounce](https://unbounce.com/product/landing-pages/); [Unless](https://unless.com/) (contenu adaptatif en fonction de l'audience) :wrench:
-- Inspirations : [Crayon](https://app.crayon.co/f/); [lapa](https://www.lapa.ninja/); [pages](https://www.pages.xyz/type/landing)
+- Inspirations : [Crayon](https://app.crayon.co/f/); [lapa](https://www.lapa.ninja/)
